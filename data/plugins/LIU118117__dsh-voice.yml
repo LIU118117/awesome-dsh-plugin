@@ -1,0 +1,6 @@
+url: https://github.com/LIU118117/dsh-voice
+name: LIU118117/dsh-voice
+category: voice
+description:
+  en: 'Adds a voice to the agent: emotional speech synthesis and a singing mode, with mp3 output and local playback.'
+  zh: '给 AI 加上声音：带情绪说话的语音合成和唱歌模式，生成 mp3 并支持本机播放。'
